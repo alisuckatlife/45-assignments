@@ -1,7 +1,10 @@
-let newusers=[]
+let current_users=['Mussa','Abdullah','Ali','Faizan','Haider'];
 
 
-let current_users=['Mussa','Abdullah','Ali'];
+let newusers=['Ali','Asad','Abdullah','Haris','Nadeem']
+
+
+
 if(users.length===0){
     console.log('We need to find some users')
 }

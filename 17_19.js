@@ -29,9 +29,10 @@ while (list3.length > 2) {
 for (const p of list3) {
     console.log(`${p} You're still invited.`);
 }
+console.log('Number of guests still invited :', list3.length);
 while (list3.length > 0) {
     list3.pop();
 }
 console.log(list3);
-// Program 19
-console.log('Number of guests still invited :', list3.length);
+
+

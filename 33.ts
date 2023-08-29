@@ -15,7 +15,7 @@ for(let loop of nums){
     else{
         end="th"
 }
-    console.log(`${loop}${end}`)
+    console.log(`${loop}${end}`) // or you can write console.log(loop,end)
         
     }
 
